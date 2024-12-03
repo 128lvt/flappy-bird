@@ -1,0 +1,36 @@
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Visual Studio files
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Auto-generated files
+*.pidb.meta
+*.pdb
+*.mdb
+*.ilk
+*.obj
+*.pch
+*.matc
+*.unitypackage
+*.tmp
