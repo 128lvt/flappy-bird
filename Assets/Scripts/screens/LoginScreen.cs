@@ -90,10 +90,9 @@ public class LoginScreen : SimpleScreen
             messageTxt.gameObject.SetActive(true);
         }
     }
-
-    public void OnClose()
-    {
-        var wallet = GameObject.Find("wallet");
-        wallet.SetActive(false);
+    public void OnClose() {
+        var loginScreen = GameObject.Find("login_screen");
+        loginScreen.SetActive(false);
     }
+
 }

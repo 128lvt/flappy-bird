@@ -5,8 +5,8 @@ public class Spawner : MonoBehaviour
     public GameObject prefab;
 
     public float spawnRate = 1f;
-    public float minHeight = -2f;
-    public float maxHeight = 2f;
+    public float minHeight = -3f;
+    public float maxHeight = 3f;
 
     private void OnEnable()
     {
